@@ -1,0 +1,800 @@
+User_ID,Product_ID,Rating
+User_1,Wireless Mouse,5
+User_1,Bluetooth Headphones,4
+User_1,USB-C Charger,5
+User_1,Smartwatch,4
+User_1,4K TV,1
+User_1,Gaming Laptop,4
+User_1,Portable SSD,2
+User_1,Smart Speaker,5
+User_1,Action Camera,2
+User_1,Fitness Tracker,2
+User_1,Office Chair,3
+User_1,Mechanical Keyboard,4
+User_1,Gaming Monitor,4
+User_1,VR Headset,1
+User_1,Home Router,3
+User_1,Smart Light Bulbs,4
+User_1,Electric Kettle,2
+User_1,Robot Vacuum,2
+User_1,Coffee Maker,1
+User_2,Wireless Mouse,1
+User_2,Bluetooth Headphones,3
+User_2,USB-C Charger,4
+User_2,4K TV,3
+User_2,Gaming Laptop,3
+User_2,Portable SSD,1
+User_2,Smart Speaker,2
+User_2,Office Chair,1
+User_2,Mechanical Keyboard,2
+User_2,Gaming Monitor,2
+User_2,VR Headset,1
+User_2,Home Router,4
+User_2,Smart Light Bulbs,3
+User_2,Robot Vacuum,2
+User_2,Air Fryer,5
+User_2,Coffee Maker,4
+User_3,Wireless Mouse,5
+User_3,Bluetooth Headphones,4
+User_3,USB-C Charger,5
+User_3,Smartwatch,5
+User_3,Gaming Laptop,3
+User_3,Portable SSD,3
+User_3,Smart Speaker,3
+User_3,Action Camera,1
+User_3,Fitness Tracker,3
+User_3,Office Chair,3
+User_3,Gaming Monitor,1
+User_3,VR Headset,2
+User_3,Home Router,1
+User_3,Smart Light Bulbs,4
+User_3,Robot Vacuum,2
+User_3,Air Fryer,2
+User_3,Coffee Maker,3
+User_4,Wireless Mouse,3
+User_4,Bluetooth Headphones,2
+User_4,USB-C Charger,4
+User_4,Smartwatch,5
+User_4,Gaming Laptop,5
+User_4,Portable SSD,3
+User_4,Smart Speaker,4
+User_4,Action Camera,5
+User_4,Fitness Tracker,1
+User_4,Office Chair,2
+User_4,VR Headset,3
+User_4,Smart Light Bulbs,5
+User_4,Electric Kettle,4
+User_4,Robot Vacuum,1
+User_4,Air Fryer,5
+User_5,Wireless Mouse,2
+User_5,Bluetooth Headphones,5
+User_5,USB-C Charger,5
+User_5,Smartwatch,1
+User_5,4K TV,4
+User_5,Gaming Laptop,4
+User_5,Portable SSD,1
+User_5,Smart Speaker,3
+User_5,Action Camera,2
+User_5,Mechanical Keyboard,1
+User_5,Gaming Monitor,3
+User_5,VR Headset,1
+User_5,Home Router,2
+User_5,Smart Light Bulbs,4
+User_5,Robot Vacuum,4
+User_5,Air Fryer,4
+User_5,Coffee Maker,5
+User_6,Wireless Mouse,2
+User_6,Bluetooth Headphones,2
+User_6,USB-C Charger,1
+User_6,4K TV,5
+User_6,Gaming Laptop,1
+User_6,Portable SSD,5
+User_6,Action Camera,1
+User_6,Office Chair,2
+User_6,Mechanical Keyboard,1
+User_6,Gaming Monitor,2
+User_6,VR Headset,1
+User_6,Home Router,5
+User_6,Smart Light Bulbs,1
+User_6,Electric Kettle,3
+User_6,Robot Vacuum,3
+User_6,Coffee Maker,1
+User_7,Wireless Mouse,5
+User_7,Bluetooth Headphones,1
+User_7,USB-C Charger,3
+User_7,4K TV,3
+User_7,Gaming Laptop,5
+User_7,Portable SSD,3
+User_7,Smart Speaker,1
+User_7,Action Camera,3
+User_7,Fitness Tracker,5
+User_7,Office Chair,4
+User_7,Mechanical Keyboard,4
+User_7,Gaming Monitor,5
+User_7,Home Router,5
+User_7,Smart Light Bulbs,3
+User_7,Air Fryer,5
+User_7,Coffee Maker,3
+User_8,Wireless Mouse,3
+User_8,Bluetooth Headphones,1
+User_8,USB-C Charger,3
+User_8,4K TV,4
+User_8,Gaming Laptop,1
+User_8,Portable SSD,2
+User_8,Smart Speaker,1
+User_8,Action Camera,5
+User_8,Fitness Tracker,1
+User_8,Office Chair,4
+User_8,Mechanical Keyboard,1
+User_8,Gaming Monitor,2
+User_8,VR Headset,2
+User_8,Home Router,4
+User_8,Smart Light Bulbs,2
+User_8,Electric Kettle,4
+User_8,Robot Vacuum,2
+User_8,Air Fryer,2
+User_8,Coffee Maker,2
+User_9,Wireless Mouse,3
+User_9,Bluetooth Headphones,5
+User_9,USB-C Charger,1
+User_9,Gaming Laptop,2
+User_9,Portable SSD,1
+User_9,Smart Speaker,3
+User_9,Action Camera,4
+User_9,Office Chair,3
+User_9,Mechanical Keyboard,2
+User_9,Gaming Monitor,2
+User_9,VR Headset,2
+User_9,Home Router,5
+User_9,Smart Light Bulbs,5
+User_9,Coffee Maker,1
+User_10,Wireless Mouse,1
+User_10,Bluetooth Headphones,2
+User_10,USB-C Charger,5
+User_10,Smartwatch,1
+User_10,4K TV,5
+User_10,Smart Speaker,2
+User_10,Action Camera,4
+User_10,Fitness Tracker,3
+User_10,Office Chair,3
+User_10,VR Headset,3
+User_10,Smart Light Bulbs,5
+User_10,Electric Kettle,2
+User_10,Robot Vacuum,2
+User_10,Coffee Maker,3
+User_11,Bluetooth Headphones,5
+User_11,USB-C Charger,2
+User_11,Smartwatch,1
+User_11,4K TV,4
+User_11,Gaming Laptop,1
+User_11,Portable SSD,2
+User_11,Smart Speaker,1
+User_11,Action Camera,5
+User_11,Fitness Tracker,5
+User_11,Office Chair,2
+User_11,VR Headset,4
+User_11,Home Router,2
+User_11,Smart Light Bulbs,4
+User_11,Electric Kettle,3
+User_11,Air Fryer,3
+User_11,Coffee Maker,3
+User_12,Wireless Mouse,1
+User_12,USB-C Charger,3
+User_12,Smartwatch,2
+User_12,4K TV,3
+User_12,Smart Speaker,2
+User_12,Action Camera,4
+User_12,Fitness Tracker,4
+User_12,Office Chair,5
+User_12,Mechanical Keyboard,2
+User_12,Gaming Monitor,5
+User_12,VR Headset,5
+User_12,Home Router,3
+User_12,Smart Light Bulbs,1
+User_12,Electric Kettle,2
+User_12,Robot Vacuum,5
+User_12,Air Fryer,1
+User_12,Coffee Maker,4
+User_13,Bluetooth Headphones,1
+User_13,USB-C Charger,4
+User_13,Smartwatch,1
+User_13,4K TV,4
+User_13,Gaming Laptop,4
+User_13,Portable SSD,1
+User_13,Smart Speaker,2
+User_13,Action Camera,4
+User_13,Fitness Tracker,5
+User_13,Office Chair,3
+User_13,Gaming Monitor,1
+User_13,VR Headset,2
+User_13,Home Router,3
+User_13,Robot Vacuum,3
+User_13,Air Fryer,1
+User_13,Coffee Maker,2
+User_14,Bluetooth Headphones,5
+User_14,USB-C Charger,3
+User_14,Smartwatch,2
+User_14,4K TV,2
+User_14,Gaming Laptop,3
+User_14,Portable SSD,4
+User_14,Office Chair,5
+User_14,Mechanical Keyboard,1
+User_14,VR Headset,1
+User_14,Home Router,4
+User_14,Smart Light Bulbs,2
+User_14,Electric Kettle,3
+User_14,Air Fryer,2
+User_15,Wireless Mouse,3
+User_15,Bluetooth Headphones,2
+User_15,USB-C Charger,2
+User_15,Smartwatch,1
+User_15,4K TV,1
+User_15,Portable SSD,3
+User_15,Smart Speaker,1
+User_15,Fitness Tracker,1
+User_15,Mechanical Keyboard,4
+User_15,Gaming Monitor,4
+User_15,VR Headset,3
+User_15,Home Router,5
+User_15,Electric Kettle,3
+User_15,Air Fryer,4
+User_15,Coffee Maker,1
+User_16,Bluetooth Headphones,1
+User_16,Smartwatch,1
+User_16,4K TV,4
+User_16,Gaming Laptop,2
+User_16,Smart Speaker,1
+User_16,Action Camera,1
+User_16,Fitness Tracker,3
+User_16,Office Chair,5
+User_16,Mechanical Keyboard,1
+User_16,Gaming Monitor,2
+User_16,VR Headset,2
+User_16,Home Router,4
+User_16,Electric Kettle,5
+User_16,Robot Vacuum,5
+User_16,Air Fryer,4
+User_17,Wireless Mouse,4
+User_17,Bluetooth Headphones,3
+User_17,USB-C Charger,3
+User_17,Gaming Laptop,5
+User_17,Portable SSD,2
+User_17,Smart Speaker,1
+User_17,Action Camera,4
+User_17,Mechanical Keyboard,4
+User_17,Gaming Monitor,5
+User_17,VR Headset,1
+User_17,Home Router,3
+User_17,Smart Light Bulbs,2
+User_17,Robot Vacuum,3
+User_17,Air Fryer,1
+User_17,Coffee Maker,1
+User_18,Wireless Mouse,4
+User_18,Bluetooth Headphones,5
+User_18,USB-C Charger,3
+User_18,Smartwatch,2
+User_18,4K TV,2
+User_18,Gaming Laptop,5
+User_18,Portable SSD,4
+User_18,Smart Speaker,2
+User_18,Action Camera,3
+User_18,Fitness Tracker,5
+User_18,Office Chair,4
+User_18,Mechanical Keyboard,2
+User_18,Gaming Monitor,4
+User_18,VR Headset,1
+User_18,Home Router,1
+User_18,Smart Light Bulbs,1
+User_18,Robot Vacuum,1
+User_18,Air Fryer,2
+User_18,Coffee Maker,4
+User_19,Wireless Mouse,2
+User_19,Bluetooth Headphones,1
+User_19,Smartwatch,1
+User_19,Portable SSD,3
+User_19,Smart Speaker,3
+User_19,Action Camera,5
+User_19,Fitness Tracker,5
+User_19,Office Chair,2
+User_19,Gaming Monitor,3
+User_19,VR Headset,1
+User_19,Smart Light Bulbs,3
+User_19,Electric Kettle,1
+User_19,Robot Vacuum,1
+User_19,Air Fryer,4
+User_19,Coffee Maker,5
+User_20,Bluetooth Headphones,4
+User_20,USB-C Charger,4
+User_20,Smartwatch,2
+User_20,Gaming Laptop,5
+User_20,Portable SSD,1
+User_20,Smart Speaker,5
+User_20,Action Camera,3
+User_20,Fitness Tracker,4
+User_20,Office Chair,4
+User_20,Gaming Monitor,2
+User_20,VR Headset,3
+User_20,Home Router,3
+User_20,Smart Light Bulbs,5
+User_20,Electric Kettle,1
+User_20,Robot Vacuum,5
+User_20,Air Fryer,1
+User_20,Coffee Maker,2
+User_21,Wireless Mouse,2
+User_21,USB-C Charger,1
+User_21,Smartwatch,1
+User_21,4K TV,4
+User_21,Gaming Laptop,5
+User_21,Portable SSD,3
+User_21,Smart Speaker,2
+User_21,Action Camera,2
+User_21,Office Chair,2
+User_21,Mechanical Keyboard,1
+User_21,Gaming Monitor,4
+User_21,VR Headset,2
+User_21,Smart Light Bulbs,1
+User_21,Electric Kettle,2
+User_21,Coffee Maker,5
+User_22,Wireless Mouse,5
+User_22,Bluetooth Headphones,4
+User_22,Portable SSD,5
+User_22,Smart Speaker,2
+User_22,Action Camera,5
+User_22,Fitness Tracker,4
+User_22,Mechanical Keyboard,2
+User_22,VR Headset,4
+User_22,Home Router,4
+User_22,Smart Light Bulbs,2
+User_22,Robot Vacuum,4
+User_22,Air Fryer,5
+User_22,Coffee Maker,3
+User_23,Wireless Mouse,4
+User_23,Bluetooth Headphones,4
+User_23,USB-C Charger,1
+User_23,Smartwatch,5
+User_23,Gaming Laptop,4
+User_23,Portable SSD,2
+User_23,Smart Speaker,1
+User_23,Fitness Tracker,5
+User_23,Office Chair,4
+User_23,Mechanical Keyboard,5
+User_23,VR Headset,1
+User_23,Home Router,1
+User_23,Electric Kettle,3
+User_23,Robot Vacuum,1
+User_23,Air Fryer,4
+User_24,Bluetooth Headphones,3
+User_24,USB-C Charger,4
+User_24,Smartwatch,1
+User_24,Gaming Laptop,4
+User_24,Portable SSD,3
+User_24,Smart Speaker,3
+User_24,Action Camera,3
+User_24,Fitness Tracker,1
+User_24,Office Chair,5
+User_24,Mechanical Keyboard,3
+User_24,Gaming Monitor,4
+User_24,VR Headset,4
+User_24,Home Router,2
+User_24,Smart Light Bulbs,2
+User_24,Electric Kettle,2
+User_24,Robot Vacuum,4
+User_24,Air Fryer,3
+User_24,Coffee Maker,2
+User_25,Wireless Mouse,1
+User_25,Bluetooth Headphones,1
+User_25,USB-C Charger,1
+User_25,Smartwatch,5
+User_25,Portable SSD,5
+User_25,Smart Speaker,2
+User_25,Action Camera,2
+User_25,Office Chair,1
+User_25,Smart Light Bulbs,1
+User_25,Electric Kettle,4
+User_25,Robot Vacuum,2
+User_25,Air Fryer,2
+User_25,Coffee Maker,4
+User_26,Bluetooth Headphones,2
+User_26,Smartwatch,4
+User_26,4K TV,1
+User_26,Gaming Laptop,3
+User_26,Portable SSD,5
+User_26,Smart Speaker,3
+User_26,Action Camera,3
+User_26,Mechanical Keyboard,4
+User_26,Gaming Monitor,3
+User_26,VR Headset,5
+User_26,Home Router,5
+User_26,Smart Light Bulbs,2
+User_26,Robot Vacuum,2
+User_26,Air Fryer,2
+User_27,Wireless Mouse,2
+User_27,USB-C Charger,3
+User_27,Smartwatch,5
+User_27,4K TV,5
+User_27,Portable SSD,3
+User_27,Smart Speaker,3
+User_27,Action Camera,5
+User_27,Fitness Tracker,3
+User_27,Office Chair,5
+User_27,Mechanical Keyboard,1
+User_27,Gaming Monitor,5
+User_27,VR Headset,2
+User_27,Home Router,1
+User_27,Smart Light Bulbs,2
+User_27,Electric Kettle,1
+User_27,Robot Vacuum,1
+User_27,Air Fryer,1
+User_27,Coffee Maker,2
+User_28,USB-C Charger,1
+User_28,Smartwatch,5
+User_28,4K TV,4
+User_28,Portable SSD,4
+User_28,Fitness Tracker,2
+User_28,Office Chair,4
+User_28,Mechanical Keyboard,3
+User_28,Gaming Monitor,5
+User_28,Home Router,3
+User_28,Smart Light Bulbs,2
+User_28,Electric Kettle,4
+User_28,Air Fryer,3
+User_29,Wireless Mouse,5
+User_29,Bluetooth Headphones,5
+User_29,USB-C Charger,3
+User_29,Smartwatch,1
+User_29,4K TV,2
+User_29,Gaming Laptop,1
+User_29,Portable SSD,4
+User_29,Smart Speaker,1
+User_29,Fitness Tracker,3
+User_29,Office Chair,3
+User_29,Gaming Monitor,4
+User_29,VR Headset,4
+User_29,Home Router,4
+User_29,Smart Light Bulbs,1
+User_29,Electric Kettle,5
+User_29,Robot Vacuum,4
+User_29,Air Fryer,3
+User_29,Coffee Maker,4
+User_30,Wireless Mouse,1
+User_30,USB-C Charger,3
+User_30,Smartwatch,3
+User_30,4K TV,4
+User_30,Gaming Laptop,5
+User_30,Portable SSD,3
+User_30,Smart Speaker,1
+User_30,Fitness Tracker,2
+User_30,Mechanical Keyboard,3
+User_30,VR Headset,2
+User_30,Smart Light Bulbs,1
+User_30,Robot Vacuum,5
+User_30,Air Fryer,1
+User_30,Coffee Maker,4
+User_31,Wireless Mouse,3
+User_31,Bluetooth Headphones,1
+User_31,USB-C Charger,2
+User_31,Smartwatch,2
+User_31,4K TV,3
+User_31,Gaming Laptop,5
+User_31,Portable SSD,5
+User_31,Smart Speaker,5
+User_31,Action Camera,1
+User_31,Fitness Tracker,3
+User_31,Mechanical Keyboard,2
+User_31,VR Headset,5
+User_31,Home Router,5
+User_31,Smart Light Bulbs,3
+User_31,Electric Kettle,3
+User_31,Robot Vacuum,5
+User_31,Air Fryer,1
+User_31,Coffee Maker,4
+User_32,Bluetooth Headphones,3
+User_32,USB-C Charger,2
+User_32,Smartwatch,1
+User_32,4K TV,2
+User_32,Portable SSD,1
+User_32,Smart Speaker,1
+User_32,Action Camera,4
+User_32,Fitness Tracker,4
+User_32,Mechanical Keyboard,4
+User_32,Gaming Monitor,4
+User_32,VR Headset,3
+User_32,Home Router,2
+User_32,Smart Light Bulbs,4
+User_32,Electric Kettle,1
+User_32,Robot Vacuum,2
+User_32,Air Fryer,2
+User_32,Coffee Maker,2
+User_33,Wireless Mouse,3
+User_33,Bluetooth Headphones,3
+User_33,Smartwatch,1
+User_33,4K TV,5
+User_33,Portable SSD,2
+User_33,Smart Speaker,4
+User_33,Action Camera,2
+User_33,Fitness Tracker,3
+User_33,Office Chair,3
+User_33,Mechanical Keyboard,5
+User_33,Gaming Monitor,2
+User_33,VR Headset,3
+User_33,Home Router,1
+User_33,Smart Light Bulbs,1
+User_33,Electric Kettle,2
+User_33,Robot Vacuum,5
+User_33,Air Fryer,4
+User_33,Coffee Maker,2
+User_34,Wireless Mouse,3
+User_34,Bluetooth Headphones,3
+User_34,USB-C Charger,4
+User_34,Smartwatch,4
+User_34,Gaming Laptop,2
+User_34,Portable SSD,4
+User_34,Action Camera,3
+User_34,Fitness Tracker,2
+User_34,Office Chair,2
+User_34,Mechanical Keyboard,3
+User_34,Gaming Monitor,5
+User_34,VR Headset,3
+User_34,Home Router,5
+User_34,Smart Light Bulbs,3
+User_34,Electric Kettle,2
+User_35,Wireless Mouse,1
+User_35,Bluetooth Headphones,5
+User_35,USB-C Charger,4
+User_35,Smartwatch,4
+User_35,4K TV,2
+User_35,Gaming Laptop,1
+User_35,Portable SSD,5
+User_35,Smart Speaker,2
+User_35,Action Camera,1
+User_35,Fitness Tracker,3
+User_35,Mechanical Keyboard,5
+User_35,Gaming Monitor,5
+User_35,VR Headset,4
+User_35,Home Router,1
+User_35,Smart Light Bulbs,2
+User_35,Electric Kettle,3
+User_35,Robot Vacuum,2
+User_35,Air Fryer,3
+User_35,Coffee Maker,2
+User_36,Wireless Mouse,3
+User_36,USB-C Charger,4
+User_36,Smartwatch,3
+User_36,4K TV,1
+User_36,Gaming Laptop,1
+User_36,Portable SSD,5
+User_36,Smart Speaker,1
+User_36,Action Camera,5
+User_36,Office Chair,2
+User_36,Mechanical Keyboard,3
+User_36,Gaming Monitor,2
+User_36,VR Headset,2
+User_36,Home Router,4
+User_36,Smart Light Bulbs,5
+User_36,Air Fryer,2
+User_36,Coffee Maker,2
+User_37,Wireless Mouse,4
+User_37,Bluetooth Headphones,5
+User_37,USB-C Charger,4
+User_37,Smartwatch,4
+User_37,4K TV,1
+User_37,Gaming Laptop,4
+User_37,Smart Speaker,5
+User_37,Action Camera,1
+User_37,Fitness Tracker,1
+User_37,Office Chair,4
+User_37,Mechanical Keyboard,2
+User_37,Home Router,3
+User_37,Smart Light Bulbs,3
+User_37,Robot Vacuum,5
+User_37,Air Fryer,1
+User_37,Coffee Maker,4
+User_38,Wireless Mouse,1
+User_38,Bluetooth Headphones,2
+User_38,USB-C Charger,2
+User_38,Smartwatch,4
+User_38,4K TV,5
+User_38,Portable SSD,2
+User_38,Smart Speaker,5
+User_38,Fitness Tracker,1
+User_38,Office Chair,5
+User_38,Mechanical Keyboard,5
+User_38,Gaming Monitor,2
+User_38,VR Headset,2
+User_38,Home Router,1
+User_38,Smart Light Bulbs,3
+User_38,Electric Kettle,2
+User_38,Robot Vacuum,3
+User_38,Coffee Maker,4
+User_39,Wireless Mouse,1
+User_39,Bluetooth Headphones,3
+User_39,Smartwatch,4
+User_39,Gaming Laptop,1
+User_39,Smart Speaker,2
+User_39,Action Camera,2
+User_39,Fitness Tracker,3
+User_39,Mechanical Keyboard,2
+User_39,Gaming Monitor,4
+User_39,VR Headset,4
+User_39,Home Router,4
+User_39,Electric Kettle,5
+User_39,Air Fryer,3
+User_39,Coffee Maker,5
+User_40,Wireless Mouse,3
+User_40,Bluetooth Headphones,2
+User_40,USB-C Charger,2
+User_40,Smartwatch,4
+User_40,4K TV,5
+User_40,Gaming Laptop,2
+User_40,Portable SSD,3
+User_40,Smart Speaker,3
+User_40,Action Camera,5
+User_40,Fitness Tracker,1
+User_40,Office Chair,5
+User_40,VR Headset,2
+User_40,Home Router,2
+User_40,Electric Kettle,2
+User_40,Air Fryer,5
+User_40,Coffee Maker,4
+User_41,Wireless Mouse,5
+User_41,Bluetooth Headphones,2
+User_41,USB-C Charger,5
+User_41,Smartwatch,1
+User_41,Gaming Laptop,1
+User_41,Smart Speaker,2
+User_41,Office Chair,3
+User_41,Mechanical Keyboard,4
+User_41,VR Headset,3
+User_41,Home Router,4
+User_41,Smart Light Bulbs,2
+User_41,Electric Kettle,2
+User_41,Robot Vacuum,2
+User_41,Air Fryer,2
+User_41,Coffee Maker,1
+User_42,Wireless Mouse,5
+User_42,Bluetooth Headphones,3
+User_42,USB-C Charger,4
+User_42,Smartwatch,4
+User_42,Gaming Laptop,1
+User_42,Portable SSD,5
+User_42,Smart Speaker,3
+User_42,Action Camera,3
+User_42,Fitness Tracker,3
+User_42,Office Chair,2
+User_42,Mechanical Keyboard,1
+User_42,Gaming Monitor,5
+User_42,VR Headset,4
+User_42,Home Router,5
+User_42,Smart Light Bulbs,5
+User_42,Electric Kettle,2
+User_42,Robot Vacuum,3
+User_42,Air Fryer,5
+User_42,Coffee Maker,3
+User_43,Wireless Mouse,2
+User_43,Bluetooth Headphones,5
+User_43,USB-C Charger,1
+User_43,Smartwatch,1
+User_43,4K TV,1
+User_43,Gaming Laptop,5
+User_43,Portable SSD,5
+User_43,Smart Speaker,1
+User_43,Action Camera,4
+User_43,Fitness Tracker,5
+User_43,Office Chair,2
+User_43,Mechanical Keyboard,2
+User_43,Gaming Monitor,2
+User_43,VR Headset,1
+User_43,Home Router,4
+User_43,Smart Light Bulbs,2
+User_43,Electric Kettle,2
+User_43,Coffee Maker,5
+User_44,Bluetooth Headphones,2
+User_44,USB-C Charger,2
+User_44,Smartwatch,2
+User_44,4K TV,1
+User_44,Gaming Laptop,5
+User_44,Portable SSD,5
+User_44,Smart Speaker,1
+User_44,Office Chair,4
+User_44,Mechanical Keyboard,5
+User_44,Gaming Monitor,2
+User_44,VR Headset,2
+User_44,Home Router,3
+User_44,Smart Light Bulbs,3
+User_44,Electric Kettle,4
+User_44,Robot Vacuum,3
+User_44,Air Fryer,3
+User_44,Coffee Maker,4
+User_45,Wireless Mouse,3
+User_45,Bluetooth Headphones,4
+User_45,USB-C Charger,3
+User_45,Smartwatch,3
+User_45,4K TV,1
+User_45,Portable SSD,5
+User_45,Smart Speaker,1
+User_45,Action Camera,4
+User_45,Fitness Tracker,5
+User_45,Office Chair,5
+User_45,Mechanical Keyboard,1
+User_45,Gaming Monitor,3
+User_45,VR Headset,4
+User_45,Smart Light Bulbs,5
+User_45,Electric Kettle,5
+User_45,Air Fryer,1
+User_46,Bluetooth Headphones,4
+User_46,USB-C Charger,1
+User_46,Smartwatch,5
+User_46,4K TV,4
+User_46,Gaming Laptop,3
+User_46,Portable SSD,5
+User_46,Action Camera,2
+User_46,Fitness Tracker,5
+User_46,Mechanical Keyboard,3
+User_46,VR Headset,3
+User_46,Smart Light Bulbs,5
+User_46,Electric Kettle,3
+User_46,Robot Vacuum,5
+User_46,Air Fryer,5
+User_46,Coffee Maker,5
+User_47,Wireless Mouse,4
+User_47,Bluetooth Headphones,1
+User_47,USB-C Charger,3
+User_47,Smartwatch,3
+User_47,4K TV,1
+User_47,Gaming Laptop,4
+User_47,Portable SSD,5
+User_47,Smart Speaker,1
+User_47,Action Camera,2
+User_47,Fitness Tracker,4
+User_47,Office Chair,2
+User_47,Mechanical Keyboard,4
+User_47,VR Headset,1
+User_47,Home Router,1
+User_47,Smart Light Bulbs,5
+User_47,Electric Kettle,4
+User_47,Coffee Maker,4
+User_48,Wireless Mouse,2
+User_48,Bluetooth Headphones,2
+User_48,Smartwatch,3
+User_48,4K TV,2
+User_48,Gaming Laptop,2
+User_48,Portable SSD,1
+User_48,Smart Speaker,1
+User_48,Action Camera,2
+User_48,Fitness Tracker,1
+User_48,Office Chair,2
+User_48,Mechanical Keyboard,2
+User_48,Gaming Monitor,4
+User_48,Home Router,4
+User_48,Smart Light Bulbs,4
+User_48,Electric Kettle,4
+User_48,Robot Vacuum,5
+User_49,Wireless Mouse,5
+User_49,Bluetooth Headphones,4
+User_49,4K TV,1
+User_49,Gaming Laptop,3
+User_49,Portable SSD,4
+User_49,Action Camera,1
+User_49,Mechanical Keyboard,1
+User_49,Gaming Monitor,5
+User_49,VR Headset,2
+User_49,Smart Light Bulbs,3
+User_49,Robot Vacuum,4
+User_49,Air Fryer,3
+User_49,Coffee Maker,1
+User_50,Wireless Mouse,4
+User_50,Bluetooth Headphones,2
+User_50,USB-C Charger,5
+User_50,Smartwatch,1
+User_50,4K TV,3
+User_50,Portable SSD,5
+User_50,Smart Speaker,3
+User_50,Action Camera,1
+User_50,Office Chair,5
+User_50,Mechanical Keyboard,3
+User_50,Gaming Monitor,5
+User_50,Home Router,1
+User_50,Smart Light Bulbs,1
+User_50,Electric Kettle,3
+User_50,Robot Vacuum,1
+User_50,Air Fryer,2
