@@ -1,1 +1,1 @@
-# Assignments-AIE425-Intelligent-Recommender-Systems
+# Assignment1-AIE425-Intelligent-Recommender-Systems
